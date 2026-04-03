@@ -3,8 +3,10 @@
 Aplicación web para la gestión de ingresos y gastos personales. Permite registrar movimientos, organizar categorías y visualizar la información mediante gráficos, brindando un control claro y sencillo de la situación financiera del usuario.
 
 👀 Vista Previa
-<img width="1903" height="957" alt="image" src="https://github.com/user-attachments/assets/35ecc67f-d008-4dcf-93bc-a6d7c1357f5c" />
-<img width="1912" height="958" alt="image" src="https://github.com/user-attachments/assets/f2eb1821-4ed2-4db2-8beb-611bbd2b99f0" />
+<img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/16340814-f931-45ea-9062-f0608e8cee24" />
+<img width="1899" height="943" alt="image" src="https://github.com/user-attachments/assets/7610c513-c489-497f-b2b6-f49dfef981c5" />
+<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/5585a767-705b-4540-9f2a-0ca6a4ad831a" />
+<img width="1909" height="953" alt="image" src="https://github.com/user-attachments/assets/651b79d1-361d-4811-b016-53c900c309d3" />
 
 🚀 Demo en vivo
 
