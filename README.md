@@ -2,6 +2,10 @@
 
 Aplicación web para la gestión de ingresos y gastos personales. Permite registrar movimientos, organizar categorías y visualizar la información mediante gráficos, brindando un control claro y sencillo de la situación financiera del usuario.
 
+👀 Vista Previa
+<img width="1903" height="957" alt="image" src="https://github.com/user-attachments/assets/35ecc67f-d008-4dcf-93bc-a6d7c1357f5c" />
+<img width="1912" height="958" alt="image" src="https://github.com/user-attachments/assets/f2eb1821-4ed2-4db2-8beb-611bbd2b99f0" />
+
 🚀 Demo en vivo
 
 👉 https://gastolab-81bc2.web.app/
